@@ -24,7 +24,7 @@ One day I'll be good with:
 <h3 align="left">If you need to contact me:</h3>
 <p align="left">
 <a href="https://dev.to/ddanielsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ddanielsantos" height="20" width="20" /></a>
-<a href="https://twitter.com/rentat0sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rentat0sp" height="20" width="20" /></a>
+<a href="https://twitter.com/renat0sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rentat0sp" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/daniel-santos-324855212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-santos-324855212" height="20" width="20" /></a>
 <a href="https://instagram.com/ddanieus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddanieus" height="20" width="20" /></a>
 </p>
