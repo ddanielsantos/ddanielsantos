@@ -1,4 +1,4 @@
-## Hi 👋, I'm Daniel Santos - see [my website](https://ddaniel.me)
+## Hi 👋, I'm Daniel Santos
 
 I like fullstack development, open source and to learn in public. 
 
