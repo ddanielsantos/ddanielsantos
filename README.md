@@ -4,6 +4,6 @@
 
 - ✉️ [contact@ddaniel.me](mailto:contact@ddaniel.me)
 
-- 🐤 [twitter](https://twitter.com/renat0sp)
+- 🐤 [twitter](https://twitter.com/ddanieu_)
 
 I'm also learning to write some blog posts at [ddaniel.me](https://ddaniel.me/blog)
