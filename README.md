@@ -4,6 +4,6 @@
 
 - ✉️ [contact@ddaniel.me](mailto:contact@ddaniel.me)
 
-- 🐤 [twitter](https://twitter.com/ddanieu_)
+- 🐤 [bluesky](https://bsky.app/profile/ddanieus.bsky.social)
 
 I'm also learning to write some blog posts at [ddaniel.me](https://ddaniel.me/blog)
