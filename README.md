@@ -4,6 +4,6 @@
 
 - ✉️ [contact@ddaniel.me](mailto:contact@ddaniel.me)
 
-- 🐤 [bluesky](https://bsky.app/profile/ddanieus.bsky.social)
+- 🐤 [bluesky](https://bsky.app/profile/ddaniel.me)
 
 I'm also learning to write some blog posts at [ddaniel.me](https://ddaniel.me/blog)
