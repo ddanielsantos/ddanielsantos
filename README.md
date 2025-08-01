@@ -2,7 +2,7 @@
 
 ### if you need to talk to me:
 
-- ✉️ [contact@ddaniel.me](mailto:contact@ddaniel.me)
+- ✉️ [contact@ddaniel.me](mailto:contact@ddaniel.me) | [rsanto.daniel02@gmail.com](mailto:rsanto.daniel02@gmail.com)
 
 - 🐤 [bluesky](https://bsky.app/profile/ddaniel.me)
 
